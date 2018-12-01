@@ -1,4 +1,4 @@
-import javax.rmi.CORBA.Util
+
 
 fun carpma(sayi1: Int, sayi2: Int): Int
 {
